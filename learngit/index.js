@@ -9,3 +9,5 @@ function sayName() {
 function isAbove18() {
   return age >= 18
 }
+
+https://github.com/dhruvit-sattvabit/learning_git/blob/master/learngit/index.js#L2-L11
